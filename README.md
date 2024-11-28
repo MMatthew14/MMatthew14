@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MMatthew14
 - 👀 I’m interested in ... Gaming, Japanese Pop Culture (mainly Anime and Source Materials) 
 - 🌱 I’m currently learning ... Python 
-- 💞️ I’m looking to collaborate on ... a reverse search website for Japanese Voice Actors 
+- 💞️ I’m looking to collaborate on ... a reverse search website for Japanese Voice Actors using both image and voice recognition
 - 📫 How to reach me ... @MMatt14 on X 
 -  - ⚡ Fun fact: ... I live under a rock 
 
